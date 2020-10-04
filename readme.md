@@ -1,9 +1,10 @@
 # [face recognition](https://github.com/ageitgey/face_recognition/) with [streamlit](https://www.streamlit.io/)
 - [videocapture_index_check.py](https://github.com/Nyahua/streamlit-cv/blob/master/facerec/videocapture_index_check.py): check your valid webcam index.
 - [add_or_compare_face.py](https://github.com/Nyahua/streamlit-cv/blob/master/facerec/add_or_compare_face.py): add faces and name to known face database, or compare a face in your pictures to known faces.
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Nyahua/streamlit-cv/master/img/picture01.png">
+  <img src="https://raw.githubusercontent.com/Nyahua/streamlit-cv/master/img/picture02.png">
 - [face recognition from webcam]():recognize faces from webcam live streams
-  <img src="">
+  <img src="https://raw.githubusercontent.com/Nyahua/streamlit-cv/master/img/webcam.png">
 
 
 ## needed packages
